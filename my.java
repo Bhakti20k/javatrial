@@ -4,4 +4,8 @@ class my
    {
        ///code
     }
+       public void m2()
+   {
+       ///code
+    }
 }
